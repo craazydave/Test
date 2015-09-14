@@ -8,6 +8,12 @@ public class Main
         System.out.println("Work done in develop");
 
         /** Hotfix **/
+        remoteBranch();
+    }
+
+    public void remoteBranch()
+    {
+
     }
 
     public void main(String [] args)
