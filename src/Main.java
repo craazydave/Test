@@ -7,7 +7,7 @@ public class Main
     {
         System.out.println("Work done in develop");
 
-        /** On Develop nowhere else **/
+        /** Hotfix **/
     }
 
     public void main(String [] args)
