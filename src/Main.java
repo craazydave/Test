@@ -3,6 +3,11 @@
  */
 public class Main
 {
+    public Main()
+    {
+        System.out.println("Work done in develop");
+    }
+
     public void main(String [] args)
     {
         System.out.println("Hello Git");

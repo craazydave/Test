@@ -4,6 +4,7 @@
     <list default="true" id="4ac453c7-17fa-4976-bdbe-f993ce2b4e15" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="C:\git\Test\.idea.\workspace.xml" afterPath="C:\git\Test\.idea.\workspace.xml" />
     </list>
     <ignored path="Test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,9 +29,12 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.14514408">
-              <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-              <folding />
+            <state vertical-scroll-proportion="0.12700106">
+              <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+              <folding>
+                <element signature="e#85#86#0" expanded="true" />
+                <element signature="e#143#144#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -330,9 +334,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14514408">
-          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-          <folding />
+        <state vertical-scroll-proportion="0.12700106">
+          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+          <folding>
+            <element signature="e#85#86#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
